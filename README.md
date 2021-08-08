@@ -1,5 +1,5 @@
 # Laravel 8 Ajax CRUD with Image Upload
-![Laravel 8 Ajax CRUD with Image Upload](img1.png)
+![Laravel 8 Ajax CRUD with Image Upload](img1.PNG)
 <p>This repository will help you to learn how to make  Ajax CRUD with image file upload and preview.These  tutorials guide you step by step on how to implement Ajax CRUD app with image upload and preview using jquery in Laravel 8</p>
 <p>You will need to run this command:</p>
 
